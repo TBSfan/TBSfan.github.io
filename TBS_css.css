@@ -21,8 +21,9 @@ body {
 }
 div {
     width: 500px;
-    border: 25px solid grey;
-    padding: 8px;
+    border: none;
+    broder-radius: 25px solid grey;
+    padding: 15px 30px;
 }
 
 
