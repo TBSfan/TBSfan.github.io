@@ -19,6 +19,11 @@ body {
     background-attachment: fixed;
     color: black;
 }
+div {
+    width: 500px;
+    border: 25px solid grey;
+    padding: 8px;
+}
 
 
 
