@@ -15,7 +15,8 @@ p {
 }
 
 body {
-    background-color: white;
+    background: "tbsfanpagebackground.jpg";
+    bgproperties: "fixed";
     color: black;
 }
 
