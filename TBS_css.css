@@ -18,6 +18,8 @@ body {
     background-image: url("https://www.rightthisminute.com/sites/default/files/videos/images/three-beat-slide-america-is-the-place-to-be-official-music-video.jpg");
     background-attachment: fixed;
     color: black;
+    height: 500px;
+    width: 500px;
 }
 div {
     width: 500px;
