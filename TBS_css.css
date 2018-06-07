@@ -15,8 +15,8 @@ p {
 }
 
 body {
-    background: "tbsfanpagebackground.jpg";
-    bgproperties: "fixed";
+    background-image: url("tbsfanpagebackground.jpg");
+    background-attachment: fixed;
     color: black;
 }
 
